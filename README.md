@@ -21,6 +21,20 @@ You can use this SDK to implement a wide range of mobile-specific functionalitie
 * **System Integrations:** Implementing local push notifications, deep linking, and secure keychains/storage.
 * **Third-Party Services:** Embedding custom analytical tools, ad networks, or in-app purchase verification systems.
 
+  ## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you want to add new features or fix bugs:
+1. **Fork** the Project
+2. **Create** your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. **Commit** your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. **Push** to the Branch (`git push origin feature/AmazingFeature`)
+5. **Open** a Pull Request
+
+*Note: By contributing to this project, you agree that your code will be licensed under the same GNU GPL v2 License.*
+
+
 ## License
 
 This project is licensed under the **GNU General Public License v2**. See the `LICENSE` file for details.
